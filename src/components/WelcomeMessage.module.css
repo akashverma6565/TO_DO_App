@@ -1,0 +1,13 @@
+.welcome {
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+  color: white;
+margin-left: 30%;
+margin: top 50px;
+margin-right: 30%;
+
+  padding: 20px;
+  border-radius: 10px;
+}
