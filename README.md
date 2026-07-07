@@ -17,10 +17,10 @@ reactJS
 
 🚀 Getting Started
 1. Clone the repository
-git clone <repository-url>
+```git clone <repository-url>```
 2. Navigate to the project folder
-cd todo-list
+```cd todo-list```
 3. Install dependencies
-npm install
+```npm install```
 4. Start the application
-npm start
+```npm start```
